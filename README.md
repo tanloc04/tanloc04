@@ -14,7 +14,7 @@ Chào mừng bạn đến với không gian GitHub của Lộc! 👋
 - 📱 **Mở rộng:** Hứng thú với việc phát triển ứng dụng **Mobile** và mong muốn trải nghiệm nếu có cơ hội.
 - 🧩 **Ngoài ra:** Tôi còn học thêm Python vì sở thích và phát triển một chút ứng dụng web thông qua Flask Framework.
 
-Cảm ơn mọi người đã ghé thăm trang GitHub của tôi. Much luv!!! ❤️
+Cảm ơn mọi người đã ghé thăm trang GitHub của tôi. Much luv!!! ❤️❤️❤️
 
 ---
 
@@ -23,9 +23,11 @@ Cảm ơn mọi người đã ghé thăm trang GitHub của tôi. Much luv!!! �
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
 ---
@@ -40,5 +42,5 @@ Cảm ơn mọi người đã ghé thăm trang GitHub của tôi. Much luv!!! �
 ---
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-profile)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
+[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/tnlcx04)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tanloc040403@gmail.com)
