@@ -1,4 +1,8 @@
-# Hi there, I'm Tấn Lộc! 👋
+<div align="center">
+  <img src="./header-banner.png" width="100%" alt="Nguyen Tan Loc Backend Developer" />
+</div>
+
+<br/>
 
 ### 👨‍💻 Web Developer | Lover of Code
 
