@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Web Developer | Lover of Code
 
-Chào mừng bạn đến với trang GitHub của mình! Mình là một lập trình viên đam mê xây dựng các ứng dụng web tối ưu và hiệu quả.
+Chào mừng bạn đến với trang GitHub của Lộc! Tôi là một lập trình viên đam mê xây dựng các ứng dụng web tối ưu và hiệu quả. Hướng đi chính của tôi trong tương lai là trở thành CSharp Back-end Developer. Do đó hiện tại tôi đang có gắng tập trung vào học hỏi, trau dồi, làm nhiều project liên quan đến CSharp. Tôi không chỉ phát triển mảng ứng dụng web và còn muốn học thêm về phát triển các ứng dụng mobile nếu có cơ hội được trải nghiệm và thực hành. Cảm ơn mọi người đã ghé thăm trang GitHub của tôi. Much luv!!!  
 
 ---
 
