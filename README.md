@@ -35,7 +35,7 @@ Cảm ơn mọi người đã ghé thăm trang GitHub của tôi. Much luv!!! �
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanloc04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanloc04&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanloc04&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
