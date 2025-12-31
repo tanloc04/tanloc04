@@ -35,10 +35,8 @@ Cảm ơn mọi người đã ghé thăm trang GitHub của tôi. Much luv!!! �
 ### GitHub Stats
 
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanloc04&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanloc04&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanloc04&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanloc04&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
