@@ -6,19 +6,19 @@
 
 ### 👨‍💻 Web Developer | Lover of Code
 
-Chào mừng bạn đến với không gian GitHub của Lộc! 👋
+Chào mừng bạn đến với không gian GitHub của Lộc!
 
-- 🔭 **Đam mê:** Xây dựng các ứng dụng web tối ưu và hiệu quả.
-- 🌱 **Định hướng chính:** Trở thành một **C# Backend Developer** chuyên nghiệp trong tương lai.
-- 🚀 **Hiện tại:** Đang tập trung cao độ vào học hỏi, trau dồi và thực chiến các dự án liên quan đến **C# & .NET**.
-- 📱 **Mở rộng:** Hứng thú với việc phát triển ứng dụng **Mobile** và mong muốn trải nghiệm nếu có cơ hội.
-- 🧩 **Ngoài ra:** Tôi còn học thêm Python vì sở thích và phát triển một chút ứng dụng web thông qua Flask Framework.
+-  **Đam mê:** Xây dựng các ứng dụng web tối ưu và hiệu quả.
+-  **Định hướng chính:** Trở thành một **C# Backend Developer** chuyên nghiệp trong tương lai.
+-  **Hiện tại:** Đang tập trung cao độ vào học hỏi, trau dồi và thực chiến các dự án liên quan đến **C# & .NET**.
+-  **Mở rộng:** Hứng thú với việc phát triển ứng dụng **Mobile** và mong muốn trải nghiệm nếu có cơ hội.
+-  **Ngoài ra:** Tôi còn học thêm Python vì sở thích và phát triển một chút ứng dụng web thông qua Flask Framework.
 
 Cảm ơn mọi người đã ghé thăm trang GitHub của tôi. Much luv!!! ❤️❤️❤️
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -32,7 +32,7 @@ Cảm ơn mọi người đã ghé thăm trang GitHub của tôi. Much luv!!! �
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanloc04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
